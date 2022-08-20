@@ -1,2 +1,2 @@
-# mdarikrayhan.github.io
-To view click here mdarikrayhan.github.io
+# Portfolio website
+To view click here : https://mdarikrayhan.github.io
